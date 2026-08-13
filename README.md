@@ -1,7 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <a href="#"><img src="contributions.svg" alt="Contribution Graph"></a>
   <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-    <img src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=f-coded&type=day&transparent=true" alt="Contribution Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=f-coded&theme=dark" alt="GitHub Streak Stats">
   </div>
 </div>
 
@@ -35,6 +34,8 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f-coded&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f-coded&theme=dark&layout=compact)
 
 ---
 
