@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/contributions.svg" alt="Contribution graph" width="880">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
+    <img src="./assets/contributions.svg" alt="Contribution graph" width="880">
+  </picture>
 </p>
 
 <p align="center">
