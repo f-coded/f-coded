@@ -1,12 +1,10 @@
 <p align="center">
-  ℹ️
+  <img src="./assets/contributions.svg" alt="Contribution graph" width="880">
 </p>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=f-coded&theme=dark" alt="GitHub Streak Stats">
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f-coded&theme=dark" alt="GitHub Streak Stats">
+</p>
 
 ---
 
